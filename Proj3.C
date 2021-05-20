@@ -1,3 +1,4 @@
+//To find averge of 3 intergers 
 #include<math.h>
 #include<stdio.h>
 int main()
